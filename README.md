@@ -1,20 +1,18 @@
-# Assignment 3 Website
+# IT 304 Final Project: ChatGPT and Society
 
-This project is a multi-page personal website built with HTML and CSS.
+This website presents a critical analysis of ChatGPT as an advanced information technology. It covers what ChatGPT is, real-world applications in education and healthcare, social and ethical concerns, stakeholder recommendations, and a summary of improvements based on classmate feedback.
 
 ## Pages
-- Home
-- Ethics
-- About
-- Contact
+- `index.html` - Home page
+- `introduction.html` - Introduction to ChatGPT
+- `application.html` - Real-world applications
+- `criticaldiscussion.html` - Ethical analysis and social implications
+- `stakeholders.html` - Stakeholders, recommendations, and improvement summary
+- `style.css` - Website styling
 
-## Features
-- Header navigation menu with more than two items
-- Multiple linked web pages
-- Custom CSS styling
-- IT-related ethics content
-- References to official sources
+## Topic
+ChatGPT and generative AI
 
-## Sources
-- ACM Code of Ethics and Professional Conduct: https://www.acm.org/code-of-ethics
-- NIST AI Risk Management Framework: https://www.nist.gov/itl/ai-risk-management-framework
+## Main Ethical Lenses
+- Utilitarianism
+- Deontology
